@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/alex/AndroidStudioProjects/BlunoBasicDemo1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/alex/AndroidStudioProjects/BlunoBasicDemo1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-9c9803b80bc8fe8a8c55bac36ed6c2b3578d9658.jar" />
+    </item>
+    <item
+        jar="/home/alex/AndroidStudioProjects/BlunoBasicDemo1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/alex/AndroidStudioProjects/BlunoBasicDemo1/app/build/intermediates/pre-dexed/debug/classes-2112685a60218eb23d63e3db7aee8c0ded5ceddc.jar" />
+    </item>
+    <item
+        jar="/home/alex/Android_Studio/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/alex/AndroidStudioProjects/BlunoBasicDemo1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-803ac3a5a08788561758e368a291a1df956e744a.jar" />
+    </item>
+
+</items>
